@@ -10,7 +10,7 @@ My GitHub page is http://github.com/kkatrinale.
 
 * Lab 1
 
-    Lab 1, part 1 was a favorite because it was my first time ever coding. I was almost like a culture shock because I had ever seen codes before. It was pretty intimidating and difficult to understand since it was basically like learning a new language; computer language.🥲 However, now when I am looking back at it, I would want to do it again because it is the most simple compared to the rest of our labs.🤣🤣
+    Lab 1, part 1 was a favorite because it was my first time ever coding. I was almost like a culture shock because I had never seen codes before. It was pretty intimidating and difficult to understand since it was basically like learning a new language; computer language.🥲 However, now when I am looking back at it, I would want to do it again because it is the most simple compared to the rest of our labs.🤣🤣
 
 * Lab 6
     
